@@ -11,7 +11,8 @@ export class HeaderComponentComponent implements OnInit {
     "Home",
     "About Us",
     "Contact US",
-    "Catalogue"
+    "Catalogue",
+    "Directions"
   ];
   constructor() { }
 
